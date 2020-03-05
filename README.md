@@ -8,4 +8,4 @@ Old, refurbished robot frame that was stripped down (originally a ball launcher)
 * SPARK Motor Control
 * CIM Motor
 <br>
-The experiment was to test the proff of concept. We added remote functionality in order to increase saftey as a team member originally had to place the motor leads onto battery terminals.
+The experiment was to test the proof of concept. We added remote controll functionality in order to increase saftey as a team member originally had to place the motor leads onto battery terminals.
