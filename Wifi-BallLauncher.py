@@ -12,7 +12,7 @@ def main():
 @app.route("/<pin>/<action>")
 def action(pin, action):
    if pin == "pin1" and action == "on":
-       os.system('echo 1=210 /dev/')
+       os.system('echo 1=210 /dev/servoblaster')
       
 
 if __name__ == "__main__":
